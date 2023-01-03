@@ -9,5 +9,6 @@ They also show that victims are not alone and encourage lawmakers to address the
 
 
 **Data Reference**
+
 FBI (Federal Bureau of Investigation) (2022), Hate Crime Statistics: 1991-2020 [data set], Crime Data Explorer, FBI website, accessed 17 Novemer 2022. 
 https://crime-data-explorer.fr.cloud.gov/pages/downloads#datasets
